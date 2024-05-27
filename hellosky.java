@@ -5,5 +5,6 @@ public class HelloWorld {
       System.out.println("Hello, sky");
       System.out.println("Hello, Water");
       System.out.println("Hello, plants");
+          System.out.println("Hello, animals");
     }
 }
